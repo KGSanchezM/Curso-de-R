@@ -19,5 +19,4 @@ Realizar tareas de limpieza, manipulación y análisis de bases de datos utiliza
  - [`Sesión 7:` Series de tiempo](Sesion-07/Readme.md) 
  - [`Sesión 8:` Repositorios, control de cambios y conexión con bases de datos](Sesion-08/Readme.md)
 
-
  
